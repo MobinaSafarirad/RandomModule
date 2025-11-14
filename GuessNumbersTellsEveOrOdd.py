@@ -1,8 +1,8 @@
 import random
 
 
-a = int(input("Enter your first number to guess limitayion: "))
-b = int(input("Enter your second number to guess limitayion: "))
+a = int(input("Enter your first number to guess limitaion: "))
+b = int(input("Enter your second number to guess limitaion: "))
 
 
 n = int(input("How many times you want me to guess? "))
